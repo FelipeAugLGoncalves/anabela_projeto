@@ -4,7 +4,7 @@ body{
 }
 
 #principal{
-    width: 900px;
+    width: 100%;
     
 }
 
@@ -48,4 +48,8 @@ footer h4{
     border: 10px solid #c3c3ae;
     text-align: center;
 
+}
+
+.capa-width{
+    width: 100%;
 }
